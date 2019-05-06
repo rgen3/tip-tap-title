@@ -1,0 +1,24 @@
+{
+  "name": "tip-tap-title",
+  "version": "1.0.0",
+  "description": "Adds title for a tip tap editor",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "tiptap",
+    "title",
+    "first",
+    "line"
+  ],
+  "author": "Rgen3",
+  "license": "MIT",
+  "files": [
+    "src"
+  ],
+  "dependencies": {
+    "tiptap": "^1.18.0",
+    "tiptap-commands": "^1.9.0",
+    "prosemirror-state": "^1.2.2",
+    "prosemirror-view": "^1.9.1"
+  }
+}
